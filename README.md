@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/hritam2005s-projects/v0-portfolio-website-design](https://vercel.com/hritam2005s-projects/v0-portfolio-website-design)**
+**[My Portfolio:](https://sunichan-kt8u.vercel.app/)**
 
 ## Build your app
 
