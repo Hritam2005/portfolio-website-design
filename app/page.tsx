@@ -53,19 +53,19 @@ export default function PortfolioPage() {
     {
       name: "To-do List",
       desc: "A simple yet effective to-do list with CRUD operations and local storage.",
-      href: "#",
+      href: "https://github.com/Hritam2005/SCT_WD_004",
       tags: ["html", "css", "js"],
     },
     {
       name: "Stopwatch",
       desc: "Accurate stopwatch with lap support and keyboard shortcuts.",
-      href: "#",
+      href: "https://github.com/Hritam2005/SCT_WD_002",
       tags: ["js"],
     },
     {
       name: "Tic-Tac-Toe",
       desc: "Classic game with win detection and responsive UI.",
-      href: "#",
+      href: "https://github.com/Hritam2005/SCT_WD_003",
       tags: ["html", "css", "js"],
     },
   ]
@@ -130,7 +130,7 @@ export default function PortfolioPage() {
           </div>
           <div className="flex justify-center md:justify-end">
             <Image
-              src="/developer-portrait-avatar.png"
+              src="Hritam.jpg"
               alt="Portrait illustration"
               width={320}
               height={320}
